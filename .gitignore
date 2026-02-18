@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agent skills
+.agents/
+.agent/skills/ui-ux-pro-max
+.agent/skills/brainstorming
+
